@@ -12,4 +12,5 @@ next run can be just 'mvn test'
 3. Scroll
 
 **Remarks:**
-Due to the lack of "restore" functionality, the card that is moved in the 'Drag and Drop' test, should be changed to another (in feature file) before the next test execution (or state of the board should be reverted).
+1. Due to the lack of "restore" functionality, the card that is moved in the 'Drag and Drop' test, should be changed to another (in feature file) before the next test execution (or state of the board should be reverted).
+2. Testdata -> TestData.png
