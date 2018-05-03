@@ -1,4 +1,4 @@
-**About project**
+**About project** <br />
 This project includes a framework for testing of the trello.com page.<br />
 Technology:  Selenium WD + Cucumber JVM. <br />
 Page Object Pattern is used for the design of the page. <br />
