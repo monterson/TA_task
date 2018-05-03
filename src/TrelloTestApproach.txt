@@ -1,0 +1,5 @@
+Test approach for Trello:
+
+1st level:  Unit Tests
+2nd level:  API Tests
+3rd level:  E2E Tests (two sets: regression and smoke)
