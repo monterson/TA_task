@@ -1,7 +1,4 @@
-Feature: Google Searching
-  As a web surfer,
-  I want to search Google,
-  So that I can learn new things.
+Feature: Drag and Drop existing card
 
   @SmokeTests
   Scenario Outline: Drag and Drop card

@@ -1,7 +1,4 @@
-Feature: Google Searching
-  As a web surfer,
-  I want to search Google,
-  So that I can learn new things.
+Feature: Scroll the card after zoom
 
   @SmokeTests
   Scenario Outline: Scrollbar functionality

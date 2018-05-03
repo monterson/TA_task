@@ -1,7 +1,4 @@
-Feature: Google Searching
-  As a web surfer,
-  I want to search Google,
-  So that I can learn new things.
+Feature: Adding comment on card
 
   @SmokeTests
   Scenario Outline: Add comment on card
