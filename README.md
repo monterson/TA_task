@@ -1,5 +1,5 @@
 **About project** <br />
-This project includes a TA framework (with some examples) for testing of the trello.com page.<br />
+This project includes a TA framework (with some test examples) for testing of the trello.com page.<br />
 Technology:  Selenium WD + Cucumber JVM. <br />
 Page Object Pattern is used for the design of the page. <br />
 To avoid a waits command, AjaxElementLocatorFactory is used for intialization of the page elements.<br />
