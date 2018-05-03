@@ -18,10 +18,7 @@ public class LoginPageStepDefintions implements En {
         Given("^I log in to the application with default credentials$", () -> {
             loginPage.login("piotr.wisniewski@hotmail.com", "P@ssw0rd1");
         });
-
     }
-
-
 }
 
 

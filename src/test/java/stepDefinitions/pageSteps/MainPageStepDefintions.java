@@ -18,8 +18,6 @@ public class MainPageStepDefintions implements En {
             mainPage.clickBoardLink();
         });
     }
-
-
 }
 
 

@@ -1,9 +1,7 @@
 package stepDefinitions.pageSteps;
 
 import cucumber.api.java8.En;
-
 import org.openqa.selenium.WebElement;
-import pageObjects.MainPage;
 import pageObjects.TablePage;
 import stepDefinitions.core.TestContext;
 import utils.CommonUtils;

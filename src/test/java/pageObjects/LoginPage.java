@@ -15,7 +15,6 @@ public class LoginPage extends AbstractBasePage {
     @FindBy(id = "login")
     private WebElement buttonLogin;
 
-
     public LoginPage(Browser browser) {
         super(browser);
     }
@@ -30,5 +29,4 @@ public class LoginPage extends AbstractBasePage {
     public void initializePageFactory() {
         PageFactory.initElements(new AjaxElementLocatorFactory(browser.getDriver(), 15), this);
     }
-
 }

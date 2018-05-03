@@ -15,19 +15,12 @@ public class ItemPageStepDefintions implements En {
         browser = context.getBrowser();
         itemPage = new ItemPage(browser);
 
-
-
-
         When("^I add comment (.*) on the card$", (String comment) -> {
             itemPage.setNewComment(comment);
             itemPage.saveChanges();
             itemPage.pressCloseButton();
-
         });
-
     }
-
-
 }
 
 
